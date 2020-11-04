@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="poster_of_movie">Афіша до фільму</string>
+    <string name="the_most_popular">Найбільш популярні</string>
+    <string name="the_most_top_rated">Найбільш рейтингові</string>
+    <string name="title">Назва:</string>
+    <string name="original_title">Оригінальна назва:</string>
+    <string name="rating">Рейтинг:</string>
+    <string name="release_date">Дата виходу:</string>
+    <string name="overview">Опис:</string>
+    <string name="add_to_favourite">Додано в улюблені</string>
+    <string name="remove_from_favourite">Видалено із улюбленого</string>
+    <string name="main">Головна</string>
+    <string name="favourite">Улюблене</string>
+</resources>
